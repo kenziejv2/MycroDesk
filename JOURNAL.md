@@ -7,6 +7,7 @@ total_time: "5h 48m"
 ---
 
 # November 21, 2026: Completed the core schematics & power architechture
+<!-- fabricate:entry 3589 -->
 
 Today, I completed the core schematics on KiCad for my project. This is my first time doing like this, but **what I did was:**
 1. Configured the core ESP32-S3-WROOM-1 module layout alongside with reset (EN) and boot (GPIO 0) control circuits.
@@ -22,6 +23,7 @@ It did **good!** I even re-checked the hardware guidelines with my connections s
 **Total time spent: 3h 18m**
 
 # November 22, 2026: Completed & verified the MycroDesk schematics
+<!-- fabricate:entry 3676 -->
 
 Today, I just found out about ERC and tested it. I got like **26 ERRORS** and **4 WARNINGS.** 
 So, I took some time to fix it and also continuing my project.
