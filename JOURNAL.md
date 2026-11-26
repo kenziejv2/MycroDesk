@@ -3,7 +3,7 @@ title: "MycroDesk"
 github: "https://github.com/kenziejv2/MycroDesk"
 description: "A custom macro pad featuring an ESP32-S3-WROOM-1 that acts like a native USB-HID controller. Includes a reversible 16-pin USB-C interface, AMS1117-3.3 power regulation, and modular peripheral support. I'm building this because it's pretty cool ngl. \n\nIt's also planned to have an OLED display for a built-in timer, paired with a rotary knob that lets you set the countdown and control your desktop's master volume (+media playback!)."
 created_at: "2026-11-21"
-total_time: "9h 30m"
+total_time: "12h 42m"
 ---
 
 # November 21, 2026: Completed the core schematics & power architechture
@@ -66,3 +66,22 @@ But, it's looking great! I know some of you maybe aren't satisfied about my wiri
 ![](https://fabricate.hackclub-assets.com/8bb18d3118e22bff7a682a980e95845064a69462ad8c823d43a408cb4499f025/image-png/Screenshot%202026-11-25%20201957.png)
 
 **Total time spent: 1h 18m**
+
+# November 26, 2026: Completed Routing the PCB
+<!-- fabricate:entry 3947 -->
+
+**FINALLY, I DID IT!**
+I've routed my PCB :D
+
+I've routed the Rotary Encoder and the evil switch >:)
+Afterwards, I've used Copper Ground on both F.Cu and B.Cu layers and did some via stitching to keep it stable! I got 0 errors and warnings when I did DRC! 
+
+This is fun ngl :))
+
+![](https://fabricate.hackclub-assets.com/1bd2cdc24819c25dc8b154d17251fbb0a97bbcb1a48c4d0614ab2532936ae0ce/image-png/Screenshot%202026-11-26%20180557.png)
+![](https://fabricate.hackclub-assets.com/d2bd13f953585fdc9d0f524a3d7e6709c5a9e461afc3ea08c40d00a170b916ef/image-png/Screenshot%202026-11-26%20180643.png)
+![](https://fabricate.hackclub-assets.com/d51918e441833ded1c130398d28b9c650547e1287aab7b01f9d2037652477625/image-jpeg/WhatsApp%20Image%202026-11-26%20at%2018.08.11.jpeg)
+![](https://fabricate.hackclub-assets.com/ec0139e94053e1920d42dc62220ad70438621268afb288310c034641c5ae613a/image-jpeg/WhatsApp%20Image%202026-11-26%20at%2018.09.14.jpeg)
+![](https://fabricate.hackclub-assets.com/bd88cb8893e4a501908701add8fbcccfb8ee0cca87696d013c26f85d2ee829eb/image-jpeg/WhatsApp%20Image%202026-11-26%20at%2018.09.34.jpeg)
+
+**Total time spent: 3h 12m**
