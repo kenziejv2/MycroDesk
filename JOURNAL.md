@@ -3,7 +3,7 @@ title: "MycroDesk"
 github: "https://github.com/kenziejv2/MycroDesk"
 description: "A custom macro pad featuring an ESP32-S3-WROOM-1 that acts like a native USB-HID controller. Includes a reversible 16-pin USB-C interface, AMS1117-3.3 power regulation, and modular peripheral support. I'm building this because it's pretty cool ngl. \n\nIt's also planned to have an OLED display for a built-in timer, paired with a rotary knob that lets you set the countdown and control your desktop's master volume (+media playback!)."
 created_at: "2026-11-21"
-total_time: "5h 48m"
+total_time: "9h 30m"
 ---
 
 # November 21, 2026: Completed the core schematics & power architechture
@@ -38,3 +38,31 @@ Then, I tested the ERC and **no signs of errors or warnings!** Now, I can declar
 ![](https://fabricate.hackclub-assets.com/4193a6ecfc791fd066d854d37089c6d63f25afa58fa589dd2ae21b6d3e1105f1/image-png/Screenshot%202026-11-22%20095400.png)
 
 **Total time spent: 2h 30m**
+
+# November 24, 2026: Tried to make a PCB
+<!-- fabricate:entry 3834 -->
+
+Soo... For the past few days, I've been working on my PCB. Here's a progress! 
+I've learned how to design a custom PCB from tutorials and tried it myself. It's hard but worth it :D
+
+Basically, I've learned about placing components and copper traces :)
+
+Stay tuned for the next progress!
+
+![](https://fabricate.hackclub-assets.com/e0e99643bc39d7d1144a0d7d079a7c0e3639d62e6a57c59cb17a61bcc49a8cdc/image-png/Screenshot%202026-11-24%20190948.png)
+![](https://fabricate.hackclub-assets.com/1daf03292327b3db2fe25ac4e6afc2686e22f3c079a211c4414db509ebb16d02/image-png/Screenshot%202026-11-24%20191739.png)
+
+**Total time spent: 2h 24m**
+
+# November 25, 2026: Routed the 6 main keys
+<!-- fabricate:entry 3890 -->
+
+I did some trace jumping because of how dense the wires. Overall? It's awesome!
+Sometimes, I ended up trying to re-design the routing lol :P
+
+But, it's looking great! I know some of you maybe aren't satisfied about my wiring, I'll try to fix it!
+
+![](https://fabricate.hackclub-assets.com/6fe66be5e8a85174e06b8b6156a09b37f389b21b76c7bf8b89fa3d700cf2e92a/image-png/Screenshot%202026-11-25%20201749.png)
+![](https://fabricate.hackclub-assets.com/8bb18d3118e22bff7a682a980e95845064a69462ad8c823d43a408cb4499f025/image-png/Screenshot%202026-11-25%20201957.png)
+
+**Total time spent: 1h 18m**
