@@ -3,7 +3,7 @@ title: "MycroDesk"
 github: "https://github.com/kenziejv2/MycroDesk"
 description: "A custom macro pad featuring an ESP32-S3-WROOM-1 that acts like a native USB-HID controller. Includes a reversible 16-pin USB-C interface, AMS1117-3.3 power regulation, and modular peripheral support. I'm building this because it's pretty cool ngl. \n\nIt's also planned to have an OLED display for a built-in timer, paired with a rotary knob that lets you set the countdown and control your desktop's master volume (+media playback!)."
 created_at: "2026-11-21"
-total_time: "12h 42m"
+total_time: "14h 6m"
 ---
 
 # November 21, 2026: Completed the core schematics & power architechture
@@ -85,3 +85,21 @@ This is fun ngl :))
 ![](https://fabricate.hackclub-assets.com/bd88cb8893e4a501908701add8fbcccfb8ee0cca87696d013c26f85d2ee829eb/image-jpeg/WhatsApp%20Image%202026-11-26%20at%2018.09.34.jpeg)
 
 **Total time spent: 3h 12m**
+
+# November 28, 2026: Designed a rough shape for the case in Onshape
+<!-- fabricate:entry 4074 -->
+
+I've designed a rough shape for the case today. I used my PCB 3D model for a reference so I could get the dimension right. 
+
+**LENGTH: 150 mm**
+**WIDTH: 88 mm**
+**HEIGHT: 20 mm**
+
+I'm using Onshape for making this, still learning though.
+
+![](https://fabricate.hackclub-assets.com/3537868a06060e53dad255ff4937b84ff28e7d70bf6261333cb95926707a2433/image-png/Screenshot%202026-11-28%20064024.png)
+![](https://fabricate.hackclub-assets.com/4a7e5c1915ebd4f56af9f52bb84e078c7e23fc3a246e5d6491262974631c7a9b/image-png/Screenshot%202026-11-28%20064053.png)
+![](https://fabricate.hackclub-assets.com/48988f43075b1833d1a2b5d1efa8bb68fb21616f818632e9f9c2356d2eeeb123/image-png/Screenshot%202026-11-28%20064128.png)
+![](https://fabricate.hackclub-assets.com/79811c1de776db65a6b5251d501b42e67ddb82d7e91f24821f60bac04ff3467d/image-png/Screenshot%202026-11-28%20064144.png)
+
+**Total time spent: 1h 24m**
